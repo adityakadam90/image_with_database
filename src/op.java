@@ -29,9 +29,9 @@ public class op {
 //            ps.setBytes(1,imageStore);
 //            int afr = ps.executeUpdate();
 //            if(afr > 0) {
-//                System.out.println("image insert succesfullty");
+//                System.out.println("image insert succesfully");
 //            }else {
-//                System.out.println("image insert succesfullty");
+//                System.out.println("image insert unsuccesfully");
 //            }
 //
 //        }catch (SQLException | IOException e) {
